@@ -1,0 +1,7 @@
+name = "Donut"
+uuid = "018552ac-3811-4646-8786-1431349a63b9"
+authors = ["Jarod Lam"]
+version = "0.1.0"
+
+[deps]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
